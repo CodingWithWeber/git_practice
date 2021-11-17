@@ -1,1 +1,1 @@
-# git_practice
+This is my practice for yesterday's lesson.
